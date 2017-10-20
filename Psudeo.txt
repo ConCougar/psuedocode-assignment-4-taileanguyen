@@ -1,0 +1,22 @@
+Tailea Nguyen - 10/18/17 Period 2
+
+Creating a set of instructions for a card game, specifically as possible
+
+Go fish
+
+Rules
+Each person gets 5 cards, regardless of amount of players
+Leave the rest of the cards in a stack in the middle
+Don't look at someone elses cards and don't lie
+The goal of the game is to get the most sets of each card rank
+
+Instructions
+The person to the left of the dealer goes first
+They look at their cards and check to see what rank they want to ask for
+They'll ask a specific person if they have the card.
+If that person has the card, they'll give it to the person that asked and then asks the same or another person for another
+If the person doesn't have the card asked for they'll say "go fish"
+When they say that, the person who asked has to grab a card from the deck
+Then the person to their left asks next
+It continues like that until all sets of cards are made
+Whoever had the most amount of cards, wins
