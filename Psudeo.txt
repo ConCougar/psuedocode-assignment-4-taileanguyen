@@ -20,3 +20,6 @@ When they say that, the person who asked has to grab a card from the deck
 Then the person to their left asks next
 It continues like that until all sets of cards are made
 Whoever had the most amount of cards, wins
+
+
+//fun stuff :)
